@@ -5,6 +5,6 @@ class Dog
     @breed = breed
     if breed == nil
       "mutt"
-    end  
+    end
   end
 end
