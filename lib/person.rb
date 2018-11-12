@@ -1,11 +1,11 @@
-class Person(name)
+class Person
 
   def initialize
     @name
   end
 
-  def name=(name)
-    @name = name
+  def name=(the_person_name)
+    @name = the_person_name
   end
   def name
     @name
